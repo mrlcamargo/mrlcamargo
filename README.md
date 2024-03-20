@@ -6,7 +6,6 @@
   <img align="center" alt="Mu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2F82%2Fc8%2Ffa82c87d2c4af6e6e78fd964f51cffdd.jpg&f=1&nofb=1">
    
 </div>
 
